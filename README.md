@@ -4,8 +4,8 @@ A simple es translation tool
 
 # Usage
 
-\$ pearls-tools build
-\$ pearls-tools build --watch
+$ pearls-tools build
+$ pearls-tools build --watch
 
 # LICENSE
 
